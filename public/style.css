@@ -1,0 +1,23 @@
+body {
+    background: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  #fileUrl a {
+    color: #007bff;
+    word-break: break-all;
+    text-decoration: none;
+  }
+  
+  #fileUrl a:hover {
+    text-decoration: underline;
+  }
+  
+  .progress {
+    display: block;
+  }
+  
